@@ -5,6 +5,9 @@ We use Blender3D as a main DCC (Digital Content Creation) tool, and every once i
 
 We hope you find this repository usefull, and welcome any suggestions or collaborations.
 
+Check us out: https://blackboardvfx.com/
+
+
 
 #### Uploaded Addons
 + **Cache Swap** : helps us work efficiently with animation cache files, especially when the pipeline requires constant animation updates.
